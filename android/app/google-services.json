@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336304310664",
+    "project_id": "hid-image-96250",
+    "storage_bucket": "hid-image-96250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336304310664:android:f36f5294097bbec34d923d",
+        "android_client_info": {
+          "package_name": "com.example.hid_image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpa_S3if0w_Vs1Ak7e2n_riwwekC7u8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336304310664:android:0a5d100f78944a824d923d",
+        "android_client_info": {
+          "package_name": "com.example.hid_image_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpa_S3if0w_Vs1Ak7e2n_riwwekC7u8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
