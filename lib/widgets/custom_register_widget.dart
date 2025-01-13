@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hid_image_app/constant.dart';
@@ -234,3 +235,4 @@ class _CustomRegisterWidgetState extends State<CustomRegisterWidget> {
     );
   }
 }
+*/

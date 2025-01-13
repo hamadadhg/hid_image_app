@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:hid_image_app/constant.dart';
 import 'package:hid_image_app/widgets/custom_icon_widget.dart';
@@ -26,3 +27,4 @@ class CustomFloatingActionButtonWidget extends StatelessWidget {
     );
   }
 }
+*/

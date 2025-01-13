@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 Color kWhiteColor = Colors.white;
@@ -9,3 +10,4 @@ Color kGreyColorToAppBar = const Color(
 );
 
 String kOpenBox = 'OpenBox';
+*/

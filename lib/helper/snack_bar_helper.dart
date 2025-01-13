@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:hid_image_app/constant.dart';
 import 'package:hid_image_app/widgets/custom_text_widget.dart';
@@ -19,3 +20,4 @@ void showMessageToUser({required BuildContext context, required String text}) {
     ),
   );
 }
+*/
