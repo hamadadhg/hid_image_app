@@ -1,4 +1,3 @@
-/*
 import 'dart:io';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hid_image_app/constant.dart';
@@ -61,4 +60,3 @@ class HidImageCubit extends Cubit<HidImageState> {
     );
   }
 }
-*/

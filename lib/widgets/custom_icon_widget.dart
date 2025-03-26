@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:hid_image_app/constant.dart';
 
@@ -21,4 +20,3 @@ class CustomIconWidget extends StatelessWidget {
     );
   }
 }
-*/

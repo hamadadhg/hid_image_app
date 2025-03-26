@@ -1,4 +1,3 @@
-/*
 abstract class HidImageState {}
 
 class HidImageInitialState extends HidImageState {}
@@ -11,4 +10,3 @@ class ThereIsNoHidImageState extends HidImageState {
 }
 
 class ThereIsHidImageState extends HidImageState {}
-*/

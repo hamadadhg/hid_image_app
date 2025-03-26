@@ -1,4 +1,3 @@
-/*
 abstract class AuthState {}
 
 class AuthInitialState extends AuthState {}
@@ -18,4 +17,3 @@ class AuthFailureState extends AuthState {
     required this.errorMessage,
   });
 }
-*/

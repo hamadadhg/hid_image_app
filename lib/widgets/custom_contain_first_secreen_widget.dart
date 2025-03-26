@@ -1,4 +1,3 @@
-/*
 import 'package:flutter/material.dart';
 import 'package:hid_image_app/constant.dart';
 import 'package:hid_image_app/screens/login_screen.dart';
@@ -69,4 +68,3 @@ class CustomContainFirstSecreenWidget extends StatelessWidget {
     );
   }
 }
-*/
